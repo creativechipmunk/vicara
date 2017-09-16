@@ -3,6 +3,7 @@
 <head>
 <meta charset="utf-8">
 <title>Vicara</title>
+<link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
 <meta content="width=device-width, initial-scale=1" name="viewport">
 <link href="css/vicara.a53a362fc.css" rel="stylesheet" type="text/css">
 <link href="css/style.css" rel="stylesheet" type="text/css">
@@ -26,7 +27,7 @@
 <body>
 <div class="wrapper" id="banner_caption_01010" data-image-src="images/57cfc7a9a4b6d89c0cf98622/57dcfa7f044e023f0b896c94_hero.jpg" data-parallax="&#39;scroll&#39;">
   <div class="navbar w-nav" data-animation="default" data-collapse="medium" data-duration="400"><a class="logo w-nav-brand wow fadeInLeft" href="index.php"></a>
-    <nav class="nav-menu w-nav-menu  wow fadeInRight" role="navigation"><a class="nav-link w-nav-link" href="about-us.php">About Us</a><a class="nav-link w-nav-link" href="our-services.php">Our Services</a><a class="nav-link w-nav-link" href="our-team.php">Our&nbsp;Team</a><a class="nav-link w-nav-link" href="projects.php">Projects</a><a class="nav-link w-nav-link" href="carrer.php">Careers</a><a class="nav-link w-nav-link" href="contact-us.php">Contact Us</a><a class="lang nav-link w-nav-link" href="german/home.php">Deutsch</a></nav>
+    <nav class="nav-menu w-nav-menu  wow fadeInRight" role="navigation"><a class="nav-link w-nav-link" href="about-us.php">About Us</a><a class="nav-link w-nav-link" href="our-services.php">Our Services</a><a class="nav-link w-nav-link" href="projects.php">Projects</a><a class="nav-link w-nav-link" href="carrer.php">Careers</a><a class="nav-link w-nav-link" href="contact-us.php">Contact Us</a><a class="lang nav-link w-nav-link" href="german/home.php">Deutsch</a></nav>
     <div class="w-nav-button">
       <div class="w-icon-nav-menu"></div>
     </div>
@@ -146,7 +147,7 @@
           <div class="newstext">Vicara Infotech Group AG actively sponsored and engaged in the 2015-2016 Year of Swiss Innovation in India. We helped bring together IT specialists from both countries to engage in business and technology excellence.<br>
 <br>The Year of Swiss Innovation in India, with its motto of ‘Thin innovation, think Switzerland’ promoted the
 </div>
-       
+
         </div>
         <div class="newscontain w-col w-col-4 w-dyn-item">
           <div class="newstext">excellence of Swiss innovation in India. Selected projects that demonstrated the best of Swiss creativity, ingenuity, scientific and technical know-how and expertise in various subject matters were presented in India.</div>
@@ -163,54 +164,35 @@
 </div>
 <div class="_2 gero section"></div>
 <div class="band section wow fadeInUp">
-  <div class="job linkedin linkdin_link_04561"><a class="shell w-inline-block " href="#">
-    <div class="_33 ghy w-clearfix linkdin_link_0456">
-      <div class="bl texts">Find us on&nbsp;</div>
-      <a href="https://www.linkedin.com/company/vicara-infotech-group-ag" target="_blank"><img class="linkinlogo" sizes="(max-width: 479px) 63vw, 200px" src="images/57e28c5076cea14f1cf4806c_LinkedinLogoTransparent.png"  width="200"></a></div>
-    </a></div>
   <div class="footer mb section">
-    <div class="shell">
-      <div class="w-clearfix">
-	  <div class="footercontent text1_01 text1_001">
-	  
-	  <img class="logofooter" src="images/57cfcb2bbbb6417f0c421776_logo.png">
-	  </div>
-	  
-	  
-        <div class="footercontent ls text1_02 text1_001">
-        <h4 class="footer-heading">Headquarters</h4>
-          <p class="footer-p">Vicara Infotech Group AG<br>
-            Trottenstrasse 62<br>
-            8037 Zurich<br>
-            Switzerland<br>
-            +41 43 366 80 22
-            </p>
-        </div>
-        <div class="footercontent text1_03 text1_001">
-          <h4 class="footer-heading">Zurich Office</h4>
-          <p class="footer-p">Vicara Infotech Group AG<br>
-            Trottenstrasse 62<br>
-            8037 Zurich<br>
-            Switzerland<br>
-            +41 43 366 80 22</p>
-        </div>
-        <div class="footercontent text1_04">
-         <h4 class="footer-heading">Pune Office</h4>
-          <p class="footer-p">Vicara Infotech Private Limited<br>
-            807 East Court<br>
-            Phoenix Market City<br>
-            Pune, India<br>
-            +91 020 668 90 746</p>
-        </div>
+      <ul class="footer-listing">
+          <li>
+              <p class="footer-listing-title">our offices</p>
+              <p class="footer-listing-desc">Zurich, Switzerland</p>
+              <p class="footer-listing-desc">New Delhi, India</p>
+          </li>
+          <li>
+              <p class="footer-listing-title">Contact us</p>
+              <p class="footer-listing-desc">info@vicara.ch</p>
+              <p class="footer-listing-desc">+91 011-41663200</p>
+          </li>
+          <li>
+              <p class="footer-listing-title">apply now</p>
+              <a class="linkedin-link" href="https://www.linkedin.com/company/vicara-infotech-group-ag">
+                  <img src="images/linkedin-sm.png" alt="Linkedin"/>
+              </a>
+          </li>
+      </ul>
+      <div class="footer-copyright">
+          <p>All rights reserved | © 2017 Vicara Infotech Private Limited </p>
       </div>
-    </div>
   </div>
 </div>
-<script src="js/jquery.min.js" type="text/javascript"></script> 
+<script src="js/jquery.min.js" type="text/javascript"></script>
 
 
 
-<script src="js/vicara.a72d2ad93.js" type="text/javascript"></script> 
+<script src="js/vicara.a72d2ad93.js" type="text/javascript"></script>
 <!--[if lte IE 9]><script src="//cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif]--><script type="text/javascript"> /*!
  * parallax.js v1.4.2 (http://pixelcog.github.io/parallax.js/)
  * @copyright 2016 PixelCog, Inc.

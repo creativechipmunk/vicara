@@ -5,6 +5,7 @@
 <meta charset="utf-8">
 <title>Our Team</title>
 <meta content="Our Team" property="og:title">
+<link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
 <meta content="width=device-width, initial-scale=1" name="viewport">
 <link href="css/vicara.a53a362fc.css" rel="stylesheet" type="text/css">
 <link href="css/style.css" rel="stylesheet" type="text/css">
@@ -27,7 +28,7 @@
 <div>
   <div class="pg wrapper">
     <div class="navbar w-nav" data-animation="default" data-collapse="medium" data-duration="400"><a class="logo w-nav-brand wow fadeInLeft" href="index.php"></a>
-      <nav class="nav-menu w-nav-menu wow fadeInRight" role="navigation"><a class="nav-link w-nav-link" href="about-us.php">About Us</a><a class="nav-link w-nav-link" href="our-services.php">Our Services</a><a class="nav-link w-nav-link" href="our-team.php">Our&nbsp;Team</a><a class="nav-link w-nav-link" href="projects.php">Projects</a><a class="nav-link w-nav-link" href="carrer.php">Careers</a><a class="nav-link w-nav-link" href="contact-us.php">Contact Us</a><a class="lang nav-link w-nav-link" href="german/home.php">Deutsch</a></nav>
+      <nav class="nav-menu w-nav-menu wow fadeInRight" role="navigation"><a class="nav-link w-nav-link" href="about-us.php">About Us</a><a class="nav-link w-nav-link" href="our-services.php">Our Services</a><a class="nav-link w-nav-link" href="projects.php">Projects</a><a class="nav-link w-nav-link" href="carrer.php">Careers</a><a class="nav-link w-nav-link" href="contact-us.php">Contact Us</a><a class="lang nav-link w-nav-link" href="german/home.php">Deutsch</a></nav>
       <div class="w-nav-button">
         <div class="w-icon-nav-menu"></div>
       </div>

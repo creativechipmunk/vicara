@@ -5,6 +5,7 @@
 <meta charset="utf-8">
 <title>Our Team</title>
 <meta content="Our Team" property="og:title">
+<link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
 <meta content="width=device-width, initial-scale=1" name="viewport">
 <link href="css/vicara.a53a362fc.css" rel="stylesheet" type="text/css">
 <link href="css/style.css" rel="stylesheet" type="text/css">
@@ -27,7 +28,7 @@
 <div>
   <div class="pg wrapper">
     <div class="navbar w-nav" data-animation="default" data-collapse="medium" data-duration="400"><a class="logo w-nav-brand wow fadeInLeft" href="index.php"></a>
-      <nav class="nav-menu w-nav-menu wow fadeInRight" role="navigation"><a class="nav-link w-nav-link" href="about-us.php">About Us</a><a class="nav-link w-nav-link" href="our-services.php">Our Services</a><a class="nav-link w-nav-link" href="our-team.php">Our&nbsp;Team</a><a class="nav-link w-nav-link" href="projects.php">Projects</a><a class="nav-link w-nav-link" href="carrer.php">Careers</a><a class="nav-link w-nav-link" href="contact-us.php">Contact Us</a><a class="lang nav-link w-nav-link" href="german/home.php">Deutsch</a></nav>
+      <nav class="nav-menu w-nav-menu wow fadeInRight" role="navigation"><a class="nav-link w-nav-link" href="about-us.php">About Us</a><a class="nav-link w-nav-link" href="our-services.php">Our Services</a><a class="nav-link w-nav-link" href="projects.php">Projects</a><a class="nav-link w-nav-link" href="carrer.php">Careers</a><a class="nav-link w-nav-link" href="contact-us.php">Contact Us</a><a class="lang nav-link w-nav-link" href="german/home.php">Deutsch</a></nav>
       <div class="w-nav-button">
         <div class="w-icon-nav-menu"></div>
       </div>
@@ -40,173 +41,173 @@
     <div class="shell">
       <div class="w-dyn-list">
         <div class="team-boxx w-dyn-items">
-		
+
 		 <div class="memberee w-dyn-item wow fadeInUp"><a class="cece w-inline-block" href="javascript:;">
             <div class="_300px" style="background-image: url('images/57e8ec97d1bc77b27512e72a_11.png');"></div>
             </a>
             <div class="name-te">Vivek Bhardwaj</div>
             <div class="title-p">CEO &amp; Founder</div>
           </div>
-		  
-		  
+
+
 		    <div class="memberee w-dyn-item wow fadeInUp"><a class="cece w-inline-block" href="javascript:;">
             <div class="_300px" style="background-image: url('images/57e8ececd462ab2443990e03_13.png');"></div>
             </a>
             <div class="name-te">Frans Smets</div>
             <div class="title-p">Head of Operations and Delivery/Member of the Management</div>
           </div>
-		  
-		  
+
+
 		  <div class="memberee w-dyn-item wow fadeInUp"><a class="cece w-inline-block" href="javascript:;">
             <div class="_300px" style="background-image: url('images/57e8edfcd1bc77b27512ea98_14.png');"></div>
             </a>
             <div class="name-te">Ishan Bhardwaj</div>
             <div class="title-p">Head of HR</div>
           </div>
-		  
-		  
+
+
 		   <div class="memberee w-dyn-item wow fadeInUp"><a class="cece w-inline-block" href="javascript:;">
             <div class="_300px" style="background-image: url('images/Meghna_Sharma.jpg');"></div>
             </a>
             <div class="name-te">Meghna Sharma</div>
             <div class="title-p">Human Resources Manager</div>
           </div>
-		  
-		  
+
+
 		  <div class="memberee w-dyn-item wow fadeInUp"><a class="cece w-inline-block" href="javascipt:;">
             <div class="_300px" style="background-image: url('images/582a05b5b94b527e391deb53_Rohit%20Bhardwaj.png');"></div>
             </a>
             <div class="name-te">Rohit Bhardwaj</div>
             <div class="title-p">Head of India Operations</div>
           </div>
-		  
-		  
+
+
 		   <div class="memberee w-dyn-item wow fadeInUp"><a class="cece w-inline-block" href="javascript:;">
             <div class="_300px" style="background-image: url('images/Christos-mitsakos.jpg');"></div>
             </a>
             <div class="name-te">Christos Mitsakos</div>
             <div class="title-p">Manager</div>
           </div>
-		  
-		  
+
+
 		   <div class="memberee w-dyn-item wow fadeInUp"><a class="cece w-inline-block" href="javascript:;">
             <div class="_300px" style="background-image: url('images/582a04f3afb5523c55359a81_daniel.png');"></div>
             </a>
             <div class="name-te">Daniel Gerek</div>
             <div class="title-p">Senior Consultant</div>
           </div>
-		  
+
 		   <div class="memberee w-dyn-item wow fadeInUp"><a class="cece w-inline-block" href="javascript:;">
             <div class="_300px" style="background-image: url('images/5829fb5c035592a65c3156a8_Nishant_Singh_Kaushal.png');"></div>
             </a>
             <div class="name-te">Nishant Singh Kaushal</div>
             <div class="title-p">Senior Consultant</div>
           </div>
-		  
-		  
-		  
+
+
+
 		   <div class="memberee w-dyn-item wow fadeInUp"><a class="cece w-inline-block" href="javascript:;">
             <div class="_300px" style="background-image: url('images/wb.png');"></div>
             </a>
             <div class="name-te">Wojciech Buczkowski</div>
             <div class="title-p">Senior Consultant</div>
           </div>
-		  
-		  
+
+
 		    <div class="memberee w-dyn-item wow fadeInUp"><a class="cece w-inline-block" href="javascript:;">
             <div class="_300px" style="background-image: url('images/dk.jpg');"></div>
             </a>
             <div class="name-te">Dionysios Kalantzis</div>
             <div class="title-p">IT Consultant</div>
           </div>
-		  
-		  
+
+
 		  <div class="memberee w-dyn-item wow fadeInUp"><a class="cece w-inline-block" href="javascript:;">
             <div class="_300px" style="background-image: url('images/Polyxeni.jpg');"></div>
             </a>
             <div class="name-te">Polyxeni Lelaki</div>
             <div class="title-p">IT Business Analyst</div>
           </div>
-		  
-		  
+
+
 		    <div class="memberee w-dyn-item wow fadeInUp"><a class="cece w-inline-block" href="javascript:;">
             <div class="_300px" style="background-image: url('images/582a050fafb5523c55359a85_georgos%20pyrios.png');"></div>
             </a>
             <div class="name-te">Georgios Pyrgeris</div>
             <div class="title-p">Consultant</div>
           </div>
-		  
+
 		   <div class="memberee w-dyn-item wow fadeInUp"><a class="cece w-inline-block" href="javascript:;">
             <div class="_300px" style="background-image: url('images/582a053ab94b527e391deb3e_Konstantinos.png');"></div>
             </a>
             <div class="name-te">Konstantinos Veroutis</div>
             <div class="title-p">Consultant</div>
           </div>
-		  
-		  
-		  
+
+
+
 		   <div class="memberee w-dyn-item wow fadeInUp"><a class="cece w-inline-block" href="javascipt:;">
             <div class="_300px" style="background-image: url('images/5829fb3cb94b527e391dca9c_Gaurav_Bhasin.png');"></div>
             </a>
             <div class="name-te">Gaurav Bhasin</div>
             <div class="title-p">Associate Consultant</div>
           </div>
-		  
-		  
+
+
 		  <div class="memberee w-dyn-item wow fadeInUp"><a class="cece w-inline-block" href="javascript:;">
             <div class="_300px" style="background-image: url('images/gf.jpg');"></div>
             </a>
             <div class="name-te">Georgios (George) Friligkos</div>
             <div class="title-p">Associate Consultant</div>
           </div>
-		  
+
 		   <div class="memberee w-dyn-item wow fadeInUp"><a class="cece w-inline-block" href="javascript:;">
             <div class="_300px" style="background-image: url('images/582a054f035592a65c317784_kostas.png');"></div>
             </a>
             <div class="name-te">Konstantinos (Kostas) Konstantopoulos</div>
             <div class="title-p">Associate Consultant</div>
           </div>
-		  
-		  
+
+
 		   <div class="memberee w-dyn-item wow fadeInUp"><a class="cece w-inline-block" href="javascipt:;">
             <div class="_300px" style="background-image: url('images/5829fb79e899c58c39bf4ea3_Raju_Jadhav.png');"></div>
             </a>
             <div class="name-te">Raju Jadhav</div>
             <div class="title-p">Associate Consultant</div>
           </div>
-		  
-		  
+
+
 		  <div class="memberee w-dyn-item wow fadeInUp"><a class="cece w-inline-block" href="javascript:;">
             <div class="_300px" style="background-image: url('images/5829feb6c75f9a7c5588e486_Rooby_Prasad.png');"></div>
             </a>
             <div class="name-te">Rooby Prasad</div>
             <div class="title-p">Associate Consultant</div>
           </div>
-		  
-		  
-		  
+
+
+
 		  <div class="memberee w-dyn-item wow fadeInUp"><a class="cece w-inline-block" href="javascript:;">
             <div class="_300px" style="background-image: url('images/5829ff49e899c58c39bf52ef_Swati_Rupnar.png');"></div>
             </a>
             <div class="name-te">Swati Rupnar</div>
             <div class="title-p">Associate Consultant</div>
           </div>
-		  
+
 		  <!--end sam-->
-          
-		  
-		  
+
+
+
         </div>
       </div>
     </div>
   </div>
-  
-  
+
+
  <div class="outer_team_details">
    <div class="team_blackhove"></div>
 		  <!--end team_blackhove-->
-		  
-		  
+
+
 		  <div class="team_main">
 		  <div class="team_popup_close"><img src="images/close.png"/></div>
 		  <div class="clr"></div>
@@ -228,9 +229,9 @@
 		  <!--end team_popup-->
 		  </div>
 		  <!--end team_main-->
-		  
-		  
-		  
+
+
+
 		   <div class="team_main">
 		  <div class="team_popup_close"><img src="images/close.png"/></div>
 		  <div class="clr"></div>
@@ -255,9 +256,9 @@
 		  <!--end team_popup-->
 		  </div>
 		  <!--end team_main-->
-		  
-		  
-		  
+
+
+
 		   <div class="team_main">
 		  <div class="team_popup_close"><img src="images/close.png"/></div>
 		  <div class="clr"></div>
@@ -281,17 +282,17 @@
 		  <!--end team_popup-->
 		  </div>
 		  <!--end team_main-->
-		  
-		  
-		  
-		  
-		  
+
+
+
+
+
 		  <div class="team_main">
 		  <div class="team_popup_close"><img src="images/close.png"/></div>
 		  <div class="clr"></div>
 		  <!--end team_popup_close-->
 		  <div class="team_popup">
-		  
+
 		  <div class="team_popup_inner mCustomScrollbar">
 		   <div class="team_title">
 		  <h2>Meghna Sharma</h2>
@@ -301,7 +302,7 @@
 		  <P><strong>Why Vicara:</strong> I've always enjoyed working with global organizations and Vicara is truly that in terms of its vision, the team and its geographical presence. </P>
 		  <p><strong>Skills:</strong> Communication, Negotiation, Performance Management and Talent Management</p>
 		   <p><strong>Focus Area:</strong> Delivery of diverse human resource programs and services</p>
-		    
+
 		  </div>
 		  </div>
 		  <!--end team_title-->
@@ -310,9 +311,9 @@
 		  <!--end team_popup-->
 		  </div>
 		  <!--end team_main-->
-		  
-		  
-		  
+
+
+
 		  <div class="team_main">
 		  <div class="team_popup_close"><img src="images/close.png"/></div>
 		  <div class="clr"></div>
@@ -327,7 +328,7 @@
 		  <P><strong>Why Vicara:</strong>Working in a multi-cultural Vicara helps expand one’s own personal as well as professional horizon beyond infinity. It is traversing a road which is full of knowledge, fun and growth.</P>
 		  <p><strong>Skills:</strong> Operations Management and Administration.</p>
 		   <p><strong>Focus Areas:</strong>Security, Administration, Legal Requisition</p>
-		    
+
 		  </div>
 		  </div>
 		  <!--end team_title-->
@@ -336,10 +337,10 @@
 		  <!--end team_popup-->
 		  </div>
 		  <!--end team_main-->
-		  
-		  
-		  
-		  
+
+
+
+
 		   <div class="team_main">
 		  <div class="team_popup_close"><img src="images/close.png"/></div>
 		  <div class="clr"></div>
@@ -364,14 +365,14 @@
 		  <!--end team_popup-->
 		  </div>
 		  <!--end team_main-->
-		  
-		  
+
+
 		  <div class="team_main">
 		  <div class="team_popup_close"><img src="images/close.png"/></div>
 		  <div class="clr"></div>
 		  <!--end team_popup_close-->
 		  <div class="team_popup">
-		  
+
 		  <div class="team_popup_inner mCustomScrollbar">
 		  <div class="team_title">
 		  <h2>Daniel Gerek</h2>
@@ -380,7 +381,7 @@
 		  <p><strong>Mantra:</strong> You can't succeed if you don't try</p>
 		  <p><strong>Skills:</strong> Over 12 years of IT experience, mostly in Data Warehousing and Business Intelligence – including architecture, design and development using a wide set of technologies</p>
 		   <p><strong>Focus Areas:</strong> Financial Services Industry, Data Warehousing & Business Intelligence, Data Integration, Performance Tuning</p>
-		    
+
 		  </div>
 		  </div>
 		  <!--end team_title-->
@@ -390,9 +391,9 @@
 		  <!--end team_popup-->
 		  </div>
 		  <!--end team_main-->
-		  
-		  
-		  
+
+
+
 		  <div class="team_main">
 		  <div class="team_popup_close"><img src="images/close.png"/></div>
 		  <div class="clr"></div>
@@ -407,7 +408,7 @@
 		  <P><strong>Why Vicara:</strong> Vicara gives you exposure to E2E data warehousing processes. This gives you opportunity to learn new skills and enhance existing ones under the guidance of experts with various skills.</P>
 		  <p><strong>Skills:</strong> Business Intelligence, Data Warehousing, Business Objects, Cognos, Data Modelling, SQL </p>
 		   <p><strong>Focus Areas:</strong>Requirement Analysis, Development Training</p>
-		    
+
 		  </div>
 		  </div>
 		  <!--end team_title-->
@@ -418,14 +419,14 @@
 		  <!--end team_popup-->
 		  </div>
 		  <!--end team_main-->
-		  
-		  
+
+
 		   <div class="team_main">
 		  <div class="team_popup_close"><img src="images/close.png"/></div>
 		  <div class="clr"></div>
 		  <!--end team_popup_close-->
 		  <div class="team_popup">
-		  
+
 		  <div class="team_popup_inner mCustomScrollbar">
 		   <div class="team_title">
 		  <h2>Wojciech Buczkowski</h2>
@@ -435,7 +436,7 @@
 		  <P><strong>Why Vicara:</strong>Vicara gives an equal opportunity to employees. It believes in diversity and inclusion and offers a multi-cultural working environment that includes Swiss and Indian nationals. The company believes in prompting the personal and professional growth of its team members through training and development. </P>
 		  <p><strong>Skills:</strong>Data warehousing, Oracle database, Application Design, Java Technology </p>
 		   <p><strong>Focus Areas:</strong>: Business Intelligence, Application Development, IT Services</p>-->
-		    
+
 		  </div>
 		  </div>
 		  <!--end team_title-->
@@ -444,14 +445,14 @@
 		  <!--end team_popup-->
 		  </div>
 		  <!--end team_main-->
-		  
-		  
+
+
 		  <div class="team_main">
 		  <div class="team_popup_close"><img src="images/close.png"/></div>
 		  <div class="clr"></div>
 		  <!--end team_popup_close-->
 		  <div class="team_popup">
-		  
+
 		  <div class="team_popup_inner mCustomScrollbar">
 		   <div class="team_title">
 		  <h2>Dionysios Kalantzis</h2>
@@ -461,7 +462,7 @@
 		  <P><strong>Why Vicara:</strong> Vicara is a multicultural, multifaceted company. Its flexibility allows the people, us, to be exposed in versatile technologies. These challenges are what motivate my personal evolvement. </P>
 		  <p><strong>Skills:</strong> Project Management, Business and Analysis requirements, Documenting, Software Development, Reporting, Data Warehousing and Testing</p>
 		   <p><strong>Focus Area:</strong>  Project Management, Business and Analysis Requirements and Agile Software Development</p>
-		    
+
 		  </div>
 		  </div>
 		  <!--end team_title-->
@@ -470,15 +471,15 @@
 		  <!--end team_popup-->
 		  </div>
 		  <!--end team_main-->
-		  
-		  
-		  
+
+
+
 		  <div class="team_main">
 		  <div class="team_popup_close"><img src="images/close.png"/></div>
 		  <div class="clr"></div>
 		  <!--end team_popup_close-->
 		  <div class="team_popup">
-		  
+
 		  <div class="team_popup_inner mCustomScrollbar">
 		   <div class="team_title">
 		  <h2>Polyxeni Lelaki</h2>
@@ -488,7 +489,7 @@
 		  <P><strong>Why Vicara:</strong> Quality work that comes from hard working people, a team that supports you, opportunities and challenges that educate you. </P>
 		  <p><strong>Skills:</strong> Business Analysis, Requirements Engineering, Data Warehouse, Testing & QA, Software Development, Databases </p>
 		   <p><strong>Focus Area:</strong> IT and Business Analysis, Testing and QA</p>
-		    
+
 		  </div>
 		  </div>
 		  <!--end team_title-->
@@ -497,8 +498,8 @@
 		  <!--end team_popup-->
 		  </div>
 		  <!--end team_main-->
-		  
-		  
+
+
 		   <div class="team_main">
 		  <div class="team_popup_close"><img src="images/close.png"/></div>
 		  <div class="clr"></div>
@@ -513,23 +514,23 @@
 		  <p><strong>Why Vicara:</strong>  A workplace where trust and mutual understanding are highly valued. At Vicara you’ll be challenged to work hard and perform at a high level, but also be supported in reaching your full potential.</p>
 		  <p><strong>Skills:</strong>Business Intelligence, Reporting & Analysis, Excel Models, Databases</p>
 		   <p><strong>Focus Areas:</strong> Requirements Analysis, Business Analysis Planning and Monitoring, Solution Assessment and Validation, Financial modeling</p>
-		    
+
 		  </div>
 		  </div>
 		  <!--end team_title-->
 		  </div>
-		  
-		  
+
+
 		  </div>
 		  <!--end team_popup-->
 		  </div>
 		  <!--end team_main-->
-		  
-		  
-		  
-		  
-		  
-		  
+
+
+
+
+
+
 		   <div class="team_main">
 		  <div class="team_popup_close"><img src="images/close.png"/></div>
 		  <div class="clr"></div>
@@ -544,22 +545,22 @@
 		  <p><strong>Why Vicara:</strong> Vicara is a constantly evolving company that gives you the opportunity to highly utilise and improve your skills, expose yourself to challenging environments and work for big clients and projects. </p>
 		  <p><strong>Skills:</strong>Business analysis, Financial analysis, Data Warehouse, Business Intelligence, Software development, Web development, Cloud technologies, Testing & QA  </p>
 		   <p><strong>Focus Areas:</strong> Business and IT requirements analysis, Testing & QA, Financial analysis, Software development</p>
-		    
+
 		  </div>
 		  </div>
 		  <!--end team_title-->
 		  </div>
-		  
+
 		  </div>
 		  <!--end team_popup-->
 		  </div>
 		  <!--end team_main-->
-		  
-		  
-		  
-		  
-		  
-		  
+
+
+
+
+
+
 		  <div class="team_main">
 		  <div class="team_popup_close"><img src="images/close.png"/></div>
 		  <div class="clr"></div>
@@ -574,30 +575,8 @@
 		  <p><strong>Why Vicara:</strong> The culture of Vicara supports learning and development on the job – and really rewards hard work</p>
 		  <p><strong>Skills:</strong>SQL, Data Warehousing, Business Objects</p>
 		   <p><strong>Focus Areas:</strong> Data Warehousing, Reporting, Business intelligence</p>
-		    
+
 		  </div>
-		  </div>
-		  <!--end team_title-->
-		  </div>
-		  <!--end team_popup_inner-->
-		  
-		  </div>
-		  <!--end team_popup-->
-		  </div>
-		  <!--end team_main-->
-		  
-		  
-		  
-		  <div class="team_main">
-		  <div class="team_popup_close"><img src="images/close.png"/></div>
-		  <div class="clr"></div>
-		  <!--end team_popup_close-->
-		  <div class="team_popup">
-		  <div class="team_popup_inner mCustomScrollbar">
-		  <div class="team_title">
-		  <h2>Georgios (George) Friligkos</h2>
-		  <h3>Associate Consultant</h3>
-		  
 		  </div>
 		  <!--end team_title-->
 		  </div>
@@ -607,8 +586,30 @@
 		  <!--end team_popup-->
 		  </div>
 		  <!--end team_main-->
-		  
-		  
+
+
+
+		  <div class="team_main">
+		  <div class="team_popup_close"><img src="images/close.png"/></div>
+		  <div class="clr"></div>
+		  <!--end team_popup_close-->
+		  <div class="team_popup">
+		  <div class="team_popup_inner mCustomScrollbar">
+		  <div class="team_title">
+		  <h2>Georgios (George) Friligkos</h2>
+		  <h3>Associate Consultant</h3>
+
+		  </div>
+		  <!--end team_title-->
+		  </div>
+		  <!--end team_popup_inner-->
+
+		  </div>
+		  <!--end team_popup-->
+		  </div>
+		  <!--end team_main-->
+
+
 		  <div class="team_main">
 		  <div class="team_popup_close"><img src="images/close.png"/></div>
 		  <div class="clr"></div>
@@ -623,7 +624,7 @@
 		  <p><strong>Why Vicara:</strong> The company, the people, the projects, the deadlines, the hard work, the laughs: all sum up to the exciting multi-national model Vicara is providing. Being part of a team composed by people from all over the world, working on bigger or smaller projects, with the highest standards and attention to detail, briefly describes everyday life in Vicara and I couldn’t agree more.</p>
 		  <p><strong>Skills:</strong> Business Analysis, Requirements Engineering, Project Management, Data Warehouse, OLTP and OLAP, Software Development, Testing, Documenting </p>
 		   <p><strong>Focus Areas:</strong>  Project Management, Project Lifecycle Overview and Support, Business and Requirements Analysis</p>
-		    
+
 		  </div>
 		  </div>
 		  <!--end team_title-->
@@ -632,8 +633,8 @@
 		  <!--end team_popup-->
 		  </div>
 		  <!--end team_main-->
-		  
-		  
+
+
 		  <div class="team_main">
 		  <div class="team_popup_close"><img src="images/close.png"/></div>
 		  <div class="clr"></div>
@@ -648,21 +649,21 @@
 		  <P><strong>Why Vicara:</strong>As it’s my first IT environment for me I have learned many things over here which will definitely help me in my growth. Fun loving environment with all my colleagues.</P>
 		  <p><strong>Skills:</strong> SQL, Oracle, DB2, Business intelligence, Data warehousing, Windows servers, Linux servers, New software installations</p>
 		   <p><strong>Focus Areas:</strong>Software developer, Business intelligence, Data warehousing, System Administration</p>
-		    
+
 		  </div>
 		  </div>
 		  <!--end team_title-->
 		  </div>
 
-  
+
 		  </div>
 		  <!--end team_popup-->
 		  </div>
 		  <!--end team_main-->
-		  
-		  
-		  
-		  
+
+
+
+
 		  <div class="team_main">
 		  <div class="team_popup_close"><img src="images/close.png"/></div>
 		  <div class="clr"></div>
@@ -677,30 +678,30 @@
 		  <P><strong>Why Vicara:</strong>Vicara is a small competent setup empowering in the domain of Business intelligence. It’s a blend of talent and pragmatic conduct in the field of IT. Excelling in business terms without compromising the value of human terms. The best part here is that it encompasses a healthy work environment. We work, play and learn in a team with a mindset of equality on boards.</P>
 		  <p><strong>Skills:</strong>Oracle, SQL, Data Modelling, Business objects, Data warehousing.</p>
 		   <p><strong>Focus Areas:</strong>Business Intelligence, Data warehousing, Data Mining, Oracle, Software Development and Testing</p>
-		    
+
 		  </div>
 		  </div>
 		  <!--end team_title-->
 		  </div>
 
-		  
-		  
-		  
+
+
+
 		  </div>
 		  <!--end team_popup-->
 		  </div>
 		  <!--end team_main-->
-		  
-		  
-		  
-		  
-		  
+
+
+
+
+
 		  <div class="team_main">
 		  <div class="team_popup_close"><img src="images/close.png"/></div>
 		  <div class="clr"></div>
 		  <!--end team_popup_close-->
 		  <div class="team_popup">
-		  
+
 		  <div class="team_popup_inner mCustomScrollbar">
 		   <div class="team_title">
 		  <h2>Swati Rupnar</h2>
@@ -710,93 +711,79 @@
 		  <P><strong>Why Vicara:</strong> Vicara gives an equal opportunity to employees. It believes in diversity and inclusion and offers a multi-cultural working environment that includes Swiss and Indian nationals. The company believes in prompting the personal and professional growth of its team members through training and development. </P>
 		  <p><strong>Skills:</strong> Data warehousing, Oracle database, Application Design, Java Technology </p>
 		   <p><strong>Focus Areas:</strong>  Business Intelligence, Application Development, IT Services</p>
-		    
+
 		  </div>
 		  </div>
 		  <!--end team_title-->
 		  </div>
-	
-		  
-		  
-		  
+
+
+
+
 		  </div>
 		  <!--end team_popup-->
 		  </div>
 		  <!--end team_main-->
-		  
-		  
-		  
-		  
-		  
-		  
+
+
+
+
+
+
 		  <!--end sam-->
-		  
-		  
-		  
-		  
-		  
-		    
-		  
-		  
+
+
+
+
+
+
+
+
 		  </div>
 		  <!--end outer_team_details-->
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  <div class="footer mb section">
-    <div class="shell wow fadeInUp">
-      <div class="w-clearfix">
-	  <div class="footercontent text1_01 text1_001">
-	  
-	  <img class="logofooter" src="images/57cfcb2bbbb6417f0c421776_logo.png">
-	  </div>
-	  
-	  
-        <div class="footercontent ls text1_02 text1_001">
-        <h4 class="footer-heading">Headquarters</h4>
-          <p class="footer-p">Vicara Infotech Group AG<br>
-            Trottenstrasse 62<br>
-            8037 Zurich<br>
-            Switzerland<br>
-            +41 43 366 80 22
-            </p>
-        </div>
-        <div class="footercontent text1_03 text1_001">
-          <h4 class="footer-heading">Zurich Office</h4>
-          <p class="footer-p">Vicara Infotech Group AG<br>
-            Trottenstrasse 62<br>
-            8037 Zurich<br>
-            Switzerland<br>
-            +41 43 366 80 22</p>
-        </div>
-        <div class="footercontent text1_04">
-         <h4 class="footer-heading">Pune Office</h4>
-          <p class="footer-p">Vicara Infotech Private Limited<br>
-            807 East Court<br>
-            Phoenix Market City<br>
-            Pune, India<br>
-            +91 020 668 90 746</p>
-        </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <div class="footer mb section">
+          <ul class="footer-listing">
+              <li>
+                  <p class="footer-listing-title">our offices</p>
+                  <p class="footer-listing-desc">Zurich, Switzerland</p>
+                  <p class="footer-listing-desc">New Delhi, India</p>
+              </li>
+              <li>
+                  <p class="footer-listing-title">Contact us</p>
+                  <p class="footer-listing-desc">info@vicara.ch</p>
+                  <p class="footer-listing-desc">+91 011-41663200</p>
+              </li>
+              <li>
+                  <p class="footer-listing-title">apply now</p>
+                  <a class="linkedin-link" href="https://www.linkedin.com/company/vicara-infotech-group-ag">
+                      <img src="../images/linkedin-sm.png" alt="Linkedin"/>
+                  </a>
+              </li>
+          </ul>
+          <div class="footer-copyright">
+              <p>All rights reserved | © 2017 Vicara Infotech Private Limited </p>
+          </div>
       </div>
-    </div>
-  </div>
 </div>
-<script src="js/jquery.min.js" type="text/javascript"></script> 
+<script src="js/jquery.min.js" type="text/javascript"></script>
 
 
 
@@ -810,21 +797,21 @@
 		$('.team_main').css("display" ,"none");
 		$('.memberee').click(function(){
 		//alert();
-		
+
 			var count = $(this).index();
 			$(this).addClass('active').siblings().removeClass('active');
 			$('.team_main:eq('+count+')').fadeIn('fast').siblings().hide('fast');
 			$('.team_blackhove').show();
-			
+
 			});
-			
+
 			$('.team_popup_close').click(function(){
-			
+
 			$('.team_blackhove').fadeOut();
 			$('.team_main').fadeOut();
 			});
-			
-	
+
+
 	});
 </script>
 
@@ -832,7 +819,7 @@
 
 
 <link rel="stylesheet"  href="css/jquery.mCustomScrollbar.css"/>
-<script src="js/jquery.mCustomScrollbar.concat.min.js" type="text/javascript"></script> 
+<script src="js/jquery.mCustomScrollbar.concat.min.js" type="text/javascript"></script>
 
 <script>
 		(function($){
@@ -851,7 +838,7 @@
 
 
 
-<script src="js/vicara.a72d2ad93.js" type="text/javascript"></script> 
+<script src="js/vicara.a72d2ad93.js" type="text/javascript"></script>
 <!--[if lte IE 9]><script src="//cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif]--><script type="text/javascript"> /*!
  * parallax.js v1.4.2 (http://pixelcog.github.io/parallax.js/)
  * @copyright 2016 PixelCog, Inc.

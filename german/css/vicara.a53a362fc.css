@@ -1,6 +1,6 @@
 /* Generated on: Mon Nov 14 2016 18:43:15 GMT+0000 (UTC) */
 /* ==========================================================================
-   normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
+   normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css
    ========================================================================== */
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html {
 	font-family: sans-serif;
@@ -742,7 +742,7 @@ a.hibi.w-button{ margin-top:40px !important; margin-bottom:20px !important;}
 .sp_back{ position: fixed;
     top: 6%;
     right: 23%;}
- .fblock{ z-index:99999 !important;}  
+ .fblock{ z-index:99999 !important;}
 
 .w-widget-twitter-count-shim.w--large {
 	width: 36px;
@@ -1680,11 +1680,11 @@ transform:rotate(360deg)
 	background-repeat: no-repeat;
 	background-attachment: scroll;
 }
-.logo.w--current {
+/*.logo.w--current {
 	height: 50px;
 	margin-top: 19px;
 	margin-left: 20px;
-}
+}*/
 .nav-link {
 	font-family: 'Open Sans', sans-serif;
 	color: #333;
@@ -1777,8 +1777,9 @@ transform:rotate(360deg)
 .section.footer {
 	height: auto;
 	max-height: 500px;
-	min-height: 250px;
-	background-color: #122158;
+	min-height: 200px;
+	background-color: #f8f8f8;
+	padding-bottom:0;
 }
 .section.footer.mb {
 	max-height: 690px;
@@ -2198,9 +2199,6 @@ transform:rotate(360deg)
 .team-member-image:hover {
 	background-color: #fff;
 }
-.nav-menu {
-	margin-top: 10px;
-}
 .pubon {
 	padding-top: 10px;
 	padding-bottom: 5px;
@@ -2418,9 +2416,9 @@ transform:rotate(360deg)
 	flex: 0 auto;
 	border-radius: 25px;
 	background-color: #fff;
-	 position:fixed; top:0; right:0; left:0; bottom:0; width:55%; height:80%; 
+	 position:fixed; top:0; right:0; left:0; bottom:0; width:55%; height:80%;
 	padding-top:40px;
-	
+
 }
 
 .child ._300px.gap{ margin-top:20px;}
