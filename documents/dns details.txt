@@ -1,0 +1,35 @@
+vicara.ch	SOA	3600	-	ns.hostpoint.ch hostmaster.hostpoint.ch 2014121101 14400 1800 604800 3600
+vicara.ch	NS	3600	-	ns3.hostpoint.ch
+vicara.ch	NS	3600	-	ns2.hostpoint.ch
+vicara.ch	NS	3600	-	ns.hostpoint.ch
+  	vicara.ch	MX	3600	1	ASPMX.L.GOOGLE.COM
+  	vicara.ch	MX	3600	5	ALT1.ASPMX.L.GOOGLE.COM
+  	vicara.ch	MX	3600	10	ALT3.ASPMX.L.GOOGLE.COM
+  	vicara.ch	MX	3600	5	ALT2.ASPMX.L.GOOGLE.COM
+  	vicara.ch	MX	3600	10	ALT4.ASPMX.L.GOOGLE.COM
+  	*.vicara.ch	MX	3600	10	ALT3.ASPMX.L.GOOGLE.COM
+  	*.vicara.ch	MX	3600	10	ALT4.ASPMX.L.GOOGLE.COM
+  	*.vicara.ch	MX	3600	5	ALT2.ASPMX.L.GOOGLE.COM
+  	*.vicara.ch	MX	3600	5	ALT1.ASPMX.L.GOOGLE.COM
+  	*.vicara.ch	MX	3600	1	ASPMX.L.GOOGLE.COM
+  	autoconfig.vicara.ch	CNAME	300	-	autoconfig.mail.hostpoint.ch
+  	autodiscover.vicara.ch	CNAME	300	-	autoconfig-nonssl.mail.hostpoint.ch
+  	calendar.vicara.ch	CNAME	300	-	ghs.googlehosted.com
+  	drive.vicara.ch	CNAME	300	-	ghs.googlehosted.com
+  	groups.vicara.ch	CNAME	300	-	ghs.googlehosted.com
+  	imap.vicara.ch	CNAME	300	-	imap.mail.hostpoint.ch
+  	lists.vicara.ch	CNAME	300	-	lists.admin.hostpoint.ch
+  	mail.vicara.ch	CNAME	300	-	ghs.googlehosted.com
+  	mail1.vicara.ch	CNAME	300	-	asmtp.mail.hostpoint.ch
+  	mail2.vicara.ch	CNAME	300	-	imap.mail.hostpoint.ch
+  	pop.vicara.ch	CNAME	300	-	pop.mail.hostpoint.ch
+  	smtp.vicara.ch	CNAME	300	-	asmtp.mail.hostpoint.ch
+  	sr8oy5xdngft8n8ip61utlwcd62kes4b.vicara.ch	CNAME	3600	-	s20170304073457.vicara.ch
+  	sr8oy5xdngft8n8ip61utlwcd62kes4b.www.vicara.ch	CNAME	3600	-	s20170304073457.vicara.ch
+  	vicara.ch	A	300	-	199.79.62.208
+  	*.vicara.ch	A	300	-	199.79.62.208
+  	vicara.ch	TXT	300	-	google-site-verification=g3973seK0mfGc2OgDe8Mio_2Znbmw9D0bFNpt8K0Dfs
+  	google-site-verification.vicara.ch	TXT	300	-	google-site-verification: googlefea380842c731bd8
+ 
+Download zone
+ 
